@@ -156,7 +156,7 @@ a {
   color: var(--black);
 }
 
-/* SECOND SECTION */
+/* ABOUT SECTION */
 
 .about-section {
   display: flex;
@@ -207,7 +207,7 @@ a {
   cursor: not-allowed;
 }
 
-/* THIRD SECTION */
+/* OFFER SECTION */
 
 .offer-section {
   display: flex;
