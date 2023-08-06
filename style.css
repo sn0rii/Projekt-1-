@@ -120,7 +120,7 @@ a {
 
 .first-section-paragraph {
   z-index: 2;
-  margin-top: 62px;
+  margin-top: 60px;
   margin-bottom: 43px;
   font-size: 18px;
   font-weight: 700;
@@ -128,7 +128,6 @@ a {
 
 .header {
   z-index: 2;
-  height: 46px;
   font-size: 36px;
   font-weight: 700;
   line-height: 42px;
@@ -140,7 +139,6 @@ a {
   z-index: 2;
   width: 164px;
   height: 41px;
-  padding: 10px 0;
   transition: background-color 1s ease;
   background: var(--explosive-grey);
   background-color: transparent;
@@ -196,10 +194,10 @@ a {
   background-image: url(./Personal-photo.jpg);
   background-size: cover;
   border-radius: 50%;
+  flex-shrink: 0;
 }
 
 .specialist-info {
-  max-width: 750px;
   font-size: 18px;
 }
 
